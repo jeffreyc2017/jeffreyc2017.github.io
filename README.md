@@ -6,6 +6,13 @@ This is the central hub for my projects and experiments hosted on GitHub Pages. 
 
 Below is a list of projects that I've worked on and made available for public view. Feel free to explore them!
 
+### Notes
+
+This repository is my digital notebook, an open-ended collection of insights gathered throughout my learning journey. It spans various domains, reflecting my curiosity and desire to understand the world around us. Whether you're here to explore specific topics or just to see what catches your eye, I hope you find something of value.
+
+- **GitHub Repository:** [jeffreyc2017/notes](https://github.com/jeffreyc2017/notes)
+- **GitHub Pages Site:** [https://jeffreyc2017.github.io/notes/](https://jeffreyc2017.github.io/notes/)
+
 ### Computer Science Skill Tree
 
 A comprehensive visual representation of skills and concepts in computer science, designed to help learners understand the interconnections and pathways for growth in the field.

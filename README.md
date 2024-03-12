@@ -32,7 +32,7 @@ An application designed to find the most efficient route between points. This pr
 Welcome to the repository for Blog, a blog powered by Hexo. This blog covers a range of topics including technology, personal development, coding tutorials, etc. My aim is to share insights, experiences, and stories that can inform, inspire, and entertain my readers.
 
 - [**GitHub Repository**](https://github.com/jeffreyc2017/blog/)
-- [**GitHub Pges Site**](https://jeffreyc2017.github.io/blog/)
+- [**GitHub Pages Site**](https://jeffreyc2017.github.io/blog/)
 
 ---
 

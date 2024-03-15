@@ -20,6 +20,12 @@ A comprehensive visual representation of skills and concepts in computer science
 - [**GitHub Repository**](https://github.com/jeffreyc2017/computer-science-skill-tree)
 - [**GitHub Pages Site**](https://jeffreyc2017.github.io/computer-science-skill-tree/)
 
+### OpenAI Chat
+
+A Python script that interacts with the OpenAI API to generate conversational AI responses based on user input. It simulates a chat environment where the AI responds thoughtfully to each message.
+
+- [GitHub Repository](https://github.com/jeffreyc2017/openai-chat)
+
 ### Route Planner
 
 An application designed to find the most efficient route between points. This project showcases algorithms and techniques in geographical data analysis and route optimization.
@@ -33,6 +39,8 @@ Welcome to the repository for Blog, a blog powered by Hexo. This blog covers a r
 
 - [**GitHub Repository**](https://github.com/jeffreyc2017/blog/)
 - [**GitHub Pages Site**](https://jeffreyc2017.github.io/blog/)
+
+###
 
 ---
 

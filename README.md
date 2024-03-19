@@ -26,6 +26,12 @@ A Python script that interacts with the OpenAI API to generate conversational AI
 
 - [GitHub Repository](https://github.com/jeffreyc2017/openai-chat)
 
+### TweetGenAI
+
+TweetGenAI is a Python-based bot designed to generate and post content automatically to X (formerly Twitter) using OpenAI's GPT models.
+
+- [GitHub Repository](https://github.com/jeffreyc2017/tweet-gen-ai)
+
 ### Route Planner
 
 An application designed to find the most efficient route between points. This project showcases algorithms and techniques in geographical data analysis and route optimization.
@@ -39,8 +45,6 @@ Welcome to the repository for Blog, a blog powered by Hexo. This blog covers a r
 
 - [GitHub Repository](https://github.com/jeffreyc2017/blog/)
 - [GitHub Pages Site](https://jeffreyc2017.github.io/blog/)
-
-###
 
 ---
 

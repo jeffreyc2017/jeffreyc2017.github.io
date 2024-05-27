@@ -6,45 +6,55 @@ This is the central hub for my projects and experiments hosted on GitHub Pages. 
 
 Below is a list of projects that I've worked on and made available for public view. Feel free to explore them!
 
-### Notes
+### Public repos
+
+#### Notes
 
 This repository is my digital notebook, an open-ended collection of insights gathered throughout my learning journey. It spans various domains, reflecting my curiosity and desire to understand the world around us. Whether you're here to explore specific topics or just to see what catches your eye, I hope you find something of value.
 
-- [GitHub Repository](https://github.com/jeffreyc2017/notes)
 - [GitHub Pages Site](https://jeffreyc2017.github.io/notes/)
+- [GitHub Repository](https://github.com/jeffreyc2017/notes)
 
-### Computer Science Skill Tree
+#### Computer Science Skill Tree
 
 A comprehensive visual representation of skills and concepts in computer science, designed to help learners understand the interconnections and pathways for growth in the field.
 
-- [GitHub Repository](https://github.com/jeffreyc2017/computer-science-skill-tree)
 - [GitHub Pages Site](https://jeffreyc2017.github.io/computer-science-skill-tree/)
+- [GitHub Repository](https://github.com/jeffreyc2017/computer-science-skill-tree)
 
-### OpenAI Chat
+#### OpenAI Chat
 
 A Python script that interacts with the OpenAI API to generate conversational AI responses based on user input. It simulates a chat environment where the AI responds thoughtfully to each message.
 
 - [GitHub Repository](https://github.com/jeffreyc2017/openai-chat)
 
-### TweetGenAI
+#### TweetGenAI
 
 TweetGenAI is a Python-based bot designed to generate and post content automatically to X (formerly Twitter) using OpenAI's GPT models.
 
 - [GitHub Repository](https://github.com/jeffreyc2017/tweet-gen-ai)
 
-### Route Planner
+#### Route Planner
 
 An application designed to find the most efficient route between points. This project showcases algorithms and techniques in geographical data analysis and route optimization.
 
-- [GitHub Repository](https://github.com/jeffreyc2017/route-planner)
 - [GitHub Pages Site](https://jeffreyc2017.github.io/route-planner/)
+- [GitHub Repository](https://github.com/jeffreyc2017/route-planner)
 
-### Blog
+#### Blog
 
 Welcome to the repository for Blog, a blog powered by Hexo. This blog covers a range of topics including technology, personal development, coding tutorials, etc. My aim is to share insights, experiences, and stories that can inform, inspire, and entertain my readers.
 
-- [GitHub Repository](https://github.com/jeffreyc2017/blog/)
 - [GitHub Pages Site](https://jeffreyc2017.github.io/blog/)
+- [GitHub Repository](https://github.com/jeffreyc2017/blog/)
+
+### Private repos
+
+#### Vocab Ahead
+
+Vocab-Ahead is a tool designed to help readers improve their vocabulary by marking unknown words in English books. Users can input a PDF file, and the software generates a list of words from the text, allowing them to mark unfamiliar words. These marked words are then saved in a database for later review and study.
+
+- [Vocab Ahead](https://vocab-ahead.pages.dev)
 
 ---
 

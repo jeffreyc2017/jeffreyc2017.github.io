@@ -48,6 +48,13 @@ Welcome to the repository for Blog, a blog powered by Hexo. This blog covers a r
 - [GitHub Pages Site](https://jeffreyc2017.github.io/blog/)
 - [GitHub Repository](https://github.com/jeffreyc2017/blog/)
 
+#### react-info-display
+
+react-info-display is a simple npm library that provides utilities for logging messages and displaying them in a customizable log viewer component for React applications.
+
+- [GitHub Repository](https://github.com/jeffreyc2017/react-info-display)
+- [npm package](https://www.npmjs.com/package/react-info-display)
+
 ### Private repos
 
 #### Vocab Ahead

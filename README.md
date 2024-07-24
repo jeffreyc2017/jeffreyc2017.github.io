@@ -12,7 +12,7 @@ A Python script that interacts with the OpenAI API to generate conversational AI
 
 - [GitHub Repository](https://github.com/jeffreyc2017/openai-chat)
 
-#### TweetGenAI
+### TweetGenAI
 
 TweetGenAI is a Python-based bot designed to generate and post content automatically to X (formerly Twitter) using OpenAI's GPT models.
 
@@ -40,14 +40,14 @@ An application designed to find the most efficient route between points. This pr
 - [GitHub Pages Site](https://jeffreyc2017.github.io/route-planner/)
 - [GitHub Repository](https://github.com/jeffreyc2017/route-planner)
 
-#### Blog
+### Blog
 
 Welcome to the repository for Blog, a blog powered by Hexo. This blog covers a range of topics including technology, personal development, coding tutorials, etc. My aim is to share insights, experiences, and stories that can inform, inspire, and entertain my readers.
 
 - [GitHub Pages Site](https://jeffreyc2017.github.io/blog/)
 - [GitHub Repository](https://github.com/jeffreyc2017/blog/)
 
-#### react-info-display
+### react-info-display
 
 react-info-display is a simple npm library that provides utilities for logging messages and displaying them in a customizable log viewer component for React applications.
 
@@ -62,9 +62,9 @@ This repository is my digital notebook, an open-ended collection of insights gat
 - [GitHub Pages Site](https://jeffreyc2017.github.io/notes/)
 - [Cloudflare pages](https://notes-991.pages.dev/#/)
 
-### Private repos
+## Private repos
 
-#### Vocab Ahead
+### Vocab Ahead
 
 Vocab-Ahead is a tool designed to help readers improve their vocabulary by marking unknown words in English books. Users can input a PDF file, and the software generates a list of words from the text, allowing them to mark unfamiliar words. These marked words are then saved in a database for later review and study.
 
